@@ -10,6 +10,6 @@ public class Main {
         } catch (Exception e) {
             System.out.println("Something went wrong.");
         }
-        System.out.println("Яой");
+        System.out.println("Я");
     }
 }
